@@ -3,7 +3,7 @@
 An exercise for learning the [git-flow branching model](http://nvie.com/posts/a-successful-git-branching-model/). This exercise will walk your team through a full release cycle for an example application.
 
 ## Hand in
-When you finish all steps, take a screenshot of your git log with all branches visible either useing ex. `git log --oneline --graph --all`, or a visual git tool. Take a screenshot only of your groups commits, nothing else and compare it to the drawing on (this page introducing git flow)[https://nvie.com/posts/a-successful-git-branching-model/].
+When you finish all steps, take a screenshot of your git log with all branches visible either useing ex. `git log --oneline --graph --all`, or a visual git tool. Take a screenshot only of your groups commits, nothing else and compare it to the drawing on [this page introducing git flow](https://nvie.com/posts/a-successful-git-branching-model/).
 Post a url to your groups fork on the course website. Also upload the screenshot of your log.
 
 ## Scenario
