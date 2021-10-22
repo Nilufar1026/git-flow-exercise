@@ -4,7 +4,7 @@ An exercise for learning the [git-flow branching model](http://nvie.com/posts/a-
 
 ## Hand in
 When you finish all steps, take a screenshot of your git log with all branches visible either useing ex. `git log --oneline --graph --all`, or a visual git tool. Take a screenshot only of your groups commits, nothing else and compare it to the drawing on [this page introducing git flow](https://nvie.com/posts/a-successful-git-branching-model/).
-Post a url to your groups fork on and the screenshot of your log on the course website. One person of the group posts the url and image file.
+Upload a screenshot of your log on the course website. One person of the group posts the url and image file. I will then look at your fork on Github since it's linked to mine, I will find it.
 
 ## Scenario
 
