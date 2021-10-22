@@ -21,3 +21,9 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Madame Croque](writer/madame-croque.md) 
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
+
+## Last Month's Favorites
+
+### [Quick Oatmeal Pancakes](recipe/feb/quick-oatmealpankakes.md)
+### [Asparagus with Cranberries and Pine Nuts](recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
+### [Chocolate Soup](recipe/jan/chocolate-soup.md)
